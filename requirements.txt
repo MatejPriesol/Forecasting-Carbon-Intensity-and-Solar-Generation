@@ -1,3 +1,8 @@
-CityLearn==2.1b9
+Jupyter
 numpy
 tqdm
+pandas
+numpy
+matplotlib
+tensorflow
+scikit-learn
