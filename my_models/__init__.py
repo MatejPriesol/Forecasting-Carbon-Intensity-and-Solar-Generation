@@ -1,2 +1,0 @@
-from .base_predictor_model import BasePredictorModel
-from .example_predictor import ExamplePredictor
